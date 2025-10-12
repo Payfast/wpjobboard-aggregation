@@ -1,6 +1,13 @@
 # Changelog
 
-## [2.3.0](https://github.com/Payfast/mod-wpjobboard/releases/tag/v2.3.0)
+## [2.4.0](https://github.com/Payfast/wpjobboard-aggregation/releases/tag/v2.4.0)
+
+### Added
+
+- Updated branding to use the Payfast by Network logo.
+- Revised configuration branding to Payfast Aggregation.
+
+## [2.3.0](https://github.com/Payfast/wpjobboard-aggregation/releases/tag/v2.3.0)
 
 ### Added
 

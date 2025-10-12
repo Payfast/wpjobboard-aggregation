@@ -1,8 +1,8 @@
-# mod-wpjobboard
+# wpjobboard-aggregation
 
-## Payfast module v2.3.0 for WP Job Board v5.11.4
+## Payfast Aggregation module v2.4.0 for WP Job Board v5.12.0
 
-This is the Payfast module for WP Job Board. Please feel free
+This is the Payfast Aggregation module for WP Job Board. Please feel free
 to [contact the Payfast support team](https://payfast.io/contact/) should you require any assistance.
 
 ## Installation
