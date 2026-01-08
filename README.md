@@ -13,11 +13,10 @@ to [contact the Payfast support team](https://payfast.io/contact/) should you re
    **[wpjobboard-payfast.zip](https://github.com/Payfast/wpjobboard-aggregation/releases/download/v2.4.0/wpjobboard-payfast.zip)**.
 4. Click **Install Now**.
 5. Click **Activate Plugin**.
-6. Login to the WP Job Board admin backend.
-7. Navigate to **Settings** below **Job Board**,
-8. Click on **Edit Payment Options** button.
-9. The payment options will then be shown, enter your preferred configuration.
-10. Click **Save Changes**.
+6. Navigate to **Settings (WPJB)** -> **Configuration**,
+7. Click the **Edit** button under **Payment Methods** -> **Payfast Aggregation**.
+8. The payment options will then be shown, enter your preferred configuration.
+9. Click **Save Changes**.
 
 Please [click here](https://payfast.io/integration/plugins/wp-job-board/) for more information concerning this module.
 
